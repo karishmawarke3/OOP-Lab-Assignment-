@@ -1,2 +1,2 @@
 # OOP-Lab-Assignment-
-programs in JAVA 
+OOP practical programs in JAVA
